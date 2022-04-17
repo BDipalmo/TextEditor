@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestApplication/1.0.0": {
+        "dependencies": {
+          "TextFilter": "1.0.0"
+        },
+        "runtime": {
+          "TestApplication.dll": {}
+        }
+      },
+      "TextFilter/1.0.0": {
+        "runtime": {
+          "TextFilter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextFilter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

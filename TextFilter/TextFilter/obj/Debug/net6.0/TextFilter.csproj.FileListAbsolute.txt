@@ -1,0 +1,12 @@
+C:\projects\TextFilter\TextFilter\TextFilter\bin\Debug\net6.0\TextFilter.deps.json
+C:\projects\TextFilter\TextFilter\TextFilter\bin\Debug\net6.0\TextFilter.dll
+C:\projects\TextFilter\TextFilter\TextFilter\bin\Debug\net6.0\TextFilter.pdb
+C:\projects\TextFilter\TextFilter\TextFilter\obj\Debug\net6.0\TextFilter.csproj.AssemblyReference.cache
+C:\projects\TextFilter\TextFilter\TextFilter\obj\Debug\net6.0\TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\TextFilter\TextFilter\TextFilter\obj\Debug\net6.0\TextFilter.AssemblyInfoInputs.cache
+C:\projects\TextFilter\TextFilter\TextFilter\obj\Debug\net6.0\TextFilter.AssemblyInfo.cs
+C:\projects\TextFilter\TextFilter\TextFilter\obj\Debug\net6.0\TextFilter.csproj.CoreCompileInputs.cache
+C:\projects\TextFilter\TextFilter\TextFilter\obj\Debug\net6.0\TextFilter.dll
+C:\projects\TextFilter\TextFilter\TextFilter\obj\Debug\net6.0\refint\TextFilter.dll
+C:\projects\TextFilter\TextFilter\TextFilter\obj\Debug\net6.0\TextFilter.pdb
+C:\projects\TextFilter\TextFilter\TextFilter\obj\Debug\net6.0\ref\TextFilter.dll
